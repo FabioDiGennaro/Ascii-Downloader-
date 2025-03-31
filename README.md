@@ -1,4 +1,4 @@
 # Ascii-Downloader-
 Simple Ascii-Downloader writen in python experimenting with tkinter
-<img src="Screenshot%202025-03-21%20094514.png" alt="Descrizione" width="400">
+<img src="Screenshot 2025-03-31 155228.png" alt="Descrizione" width="400">
 
